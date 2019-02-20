@@ -1,0 +1,43 @@
+{
+  "profile":{
+    "img":"nature.jpeg",
+    "name":"pushpa",
+    "roll":"1225",
+    "place":"guntur",
+    "mail":"pushpakommalapati3129@gmail.com"
+  },
+  "career":{
+    "info":"i want to seek a job in reputed company to explore my thought and knowledge"
+  },
+  "education":[
+    {
+      "degree":"b-tech",
+      "institute":"vignan",
+      "per":"80%",
+      "yop":"2018"
+    },
+    {
+      "degree":"intermediat",
+      "institute":"vignan",
+      "per":"80%",
+      "yop":"2014"
+    },
+    {
+      "degree":"school",
+      "institute":"vignan",
+      "per":"80%",
+      "yop":"2012"
+    }
+  ],
+    "languages":[
+      {
+        "info":"english"
+      },
+      {
+        "info":"telugu"
+      },
+      {
+        "info":"hindi"
+      }
+  ]
+}
